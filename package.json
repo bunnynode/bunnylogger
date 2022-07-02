@@ -1,0 +1,24 @@
+{
+  "name": "@bunnylogger/bunnylogger",
+  "version": "1.0.0",
+  "description": "logging with bunnes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BunnyLogger/bunnyloggernode.git"
+  },
+  "author": "Dominika Jadowska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BunnyLogger/bunnyloggernode/issues"
+  },
+  "homepage": "https://github.com/BunnyLogger/bunnyloggernode#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cli-color": "^2.0.2",
+    "moment": "^2.29.3"
+  }
+}
